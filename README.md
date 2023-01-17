@@ -1,1 +1,4 @@
-# labveilletech
+# LabVeilleTech
+Dans le cadre du cours de Laboratoire de veille technologique dispensé en troisième année d’Ingénierie des Médias, j’ai dû créer un blog traitant de mon domaine de veille et choisir un thème correspondant à ce domaine sur Hugo, étant donné que le site est généré avec celui-ci.
+
+J'ai donc écrit 4 articles de blog résumant les informations dénichées sur mon domaine de veille ainsi que 2 articles de blog expliquant le système d'écoute mis en place et l'expérimentation réalisée. J'ai également créé une page "À Propos" qui explique mon domaine, ce qui me lie à mon domaine (Ikigai) et les taxonomies.
