@@ -21,8 +21,6 @@ Finalement, il est important de créer du contenu de qualité, unique et intére
 
 Ces quatre aspects d’optimisation du SEO aident les moteurs de recherche à comprendre de quoi parlent nos pages web. Ainsi, si toutes les cases sont cochées, notre site web devient visible et arrive en haut du classement des résultats de recherche. 
 
-*Références :*
-
-•	Slap Digital (https://www.slapdigital.fr/blog/redaction-seo-web/)
-
-•	My Digital Boost (https://my-digitalboost.com/optimiser-article-seo/)
+#### Références :
+- [Slap Digital](https://www.slapdigital.fr/blog/redaction-seo-web/)
+- [My Digital Boost](https://my-digitalboost.com/optimiser-article-seo/)

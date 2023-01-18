@@ -24,7 +24,6 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  
   author = ""
   favicon = ""
   site_logo = ""

@@ -17,8 +17,6 @@ Ainsi, plusieurs critères sont à prendre en compte lors d’une publication su
 
 En résumé, lorsque l’on veut publier sur les réseaux sociaux, il faut prendre en compte les différents aspects sous-jacents de ces derniers, qu’il s’agisse du format de publication à adopter et à adapter pour chaque canal ou encore du fonctionnement de l’algorithme qui met en avant la publication et touche un public plus large. 
 
-*Références :*
-
-•	Business Attitude (https://businessattitude.fr/algorithmes-des-reseaux-sociaux-comment-ca-marche/) 
-
-•	Atchik (https://atchik.com/blog/comment-plaire-aux-algorithmes-des-reseaux-sociaux/) 
+#### Références :
+- [Business Attitude](https://businessattitude.fr/algorithmes-des-reseaux-sociaux-comment-ca-marche/) 
+- [Atchik](https://atchik.com/blog/comment-plaire-aux-algorithmes-des-reseaux-sociaux/) 

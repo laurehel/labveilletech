@@ -23,10 +23,7 @@ Car oui, au lieu de craindre de se faire remplacer par ChatGPT, il faudrait au c
 
 N.B : Cet article provient de l’imagination humaine, ni plus ni moins !
 
-*Références :*
-
-•	Rédacteur SEO Freelance (https://redacteur-seo-freelance.com/redacteur-web/chatgpt-redacteur-web/?fbclid=IwAR0o7MtT9mHe8LmaFdQdVxhkAN7Zze-jqZzy_BmkQ7nI3XnNXPBxIc5D1to)
-
-•	Conseils Rédaction Web (https://www.conseils-redaction-web.fr/chatgpt-la-fin-du-redacteur-web) 
-
-•	Génération NT (https://www.generation-nt.com/actualites/chatgpt-intelligence-artificielle-triche-examen-2032440)
+#### Références :
+- [Rédacteur SEO Freelance](https://redacteur-seo-freelance.com/redacteur-web/chatgpt-redacteur-web/?fbclid=IwAR0o7MtT9mHe8LmaFdQdVxhkAN7Zze-jqZzy_BmkQ7nI3XnNXPBxIc5D1to)
+- [Conseils Rédaction Web](https://www.conseils-redaction-web.fr/chatgpt-la-fin-du-redacteur-web) 
+- [Génération NT](https://www.generation-nt.com/actualites/chatgpt-intelligence-artificielle-triche-examen-2032440)

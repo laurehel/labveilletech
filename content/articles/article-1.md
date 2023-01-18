@@ -15,22 +15,14 @@ Elles suivent également plusieurs étapes, qui sont la recherche, la vérificat
 
 Les outils utilisés pour l’une et l’autre sont, entre autres :
 
-•	Des éditeurs de texte tels que Microsoft Word ou Google Docs,
+- Des éditeurs de texte tels que Microsoft Word ou Google Docs,
+- Des logiciels de gestion de contenu tel que WordPress,
+- Des logiciels informatiques pour intégrer du contenu avec des langages tels que HTML, CSS ou Javascript,
+- Des outils de référencement (SEO),
+- Des outils d’analyse de performance de contenu et de trafic tels que Google Analytics ou Google Search Console,
+- Des outils de collaboration en ligne,
+- Des outils de formatage, de mise en page, d’optimisation et de marketing des contenus.
 
-•	Des logiciels de gestion de contenu tel que WordPress,
-
-•	Des logiciels informatiques pour intégrer du contenu avec des langages tels que HTML, CSS ou Javascript,
-
-•	Des outils de référencement (SEO),
-
-•	Des outils d’analyse de performance de contenu et de trafic tels que Google Analytics ou Google Search Console,
-
-•	Des outils de collaboration en ligne,
-
-•	Des outils de formatage, de mise en page, d’optimisation et de marketing des contenus.
-
-*Références :*
-
-•	Anthedesign (https://www.anthedesign.fr/redaction-web/ecriture-web/)
-
-•	Wikipédia (https://fr.wikipedia.org/wiki/R%C3%A9dacteur_web)
+#### Références :
+- [Anthedesign](https://www.anthedesign.fr/redaction-web/ecriture-web/)
+- [Wikipédia](https://fr.wikipedia.org/wiki/R%C3%A9dacteur_web)
