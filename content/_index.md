@@ -9,7 +9,7 @@ Dans le cadre du cours de Laboratoire de veille technologique dispensé en trois
 
 J’ai commencé par créer mon Ikigai :
 
-![Ikigai](/images/Ikigai.jpg)
+![Ikigai](images/Ikigai.jpg)
 
 Après avoir répondu aux quatre parties – ce que j’aime, ce dont le monde a besoin, ce pour quoi je suis payée et ce en quoi je suis douée – ainsi qu’à leurs intersections – mission, vocation, profession, passion –, j’ai obtenu mon Ikigai. *Écriture digitale pour faire rêver.* 
 
