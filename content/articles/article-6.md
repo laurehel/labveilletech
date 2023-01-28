@@ -17,7 +17,7 @@ Pour la première partie de réécriture, le résultat obtenu est le suivant :
 
 Nous constatons que ChatGPT a réduit le contenu ; il l’a adapté en reprenant sensiblement la même chronologie du propos et parfois les mêmes termes et en supprimant les termes « superflux » qui rallongent trop les phrases, afin d’aller droit au but. Il a repris l’exemple de la pâtisserie tel quel et a utilisé le connecteur « en outre » pour un peu complexifier le texte très simple.
 
-Ce que l’on peut aussi remarquer, c’est que les termes et expressions un peu plus en jargon (par exemple « science infuse », « mélanger les pinceaux », « piocher […] truffés ») sont supprimés ou remplacés par des termes plus génériques (par exemple « copier […] en ajoutant », ce qui enlève un peu de saveur à l’article et le rend plus impersonnel. 
+Ce que l’on peut aussi remarquer, c’est que les termes et expressions un peu plus sous la forme de jargon (par exemple « avoir la science infuse », « se mélanger les pinceaux », « piocher […] truffés ») sont supprimés ou remplacés par des termes plus génériques (par exemple « copier […] en ajoutant », ce qui enlève un peu de saveur à l’article et le rend plus impersonnel.
 
 Pour la seconde partie d’écriture, le résultat obtenu est le suivant :
 
@@ -27,6 +27,6 @@ Il est intéressant de relever que cette dernière réponse reprend les élémen
 
 ![Écriture-Réponse2](../images/chatgpt-ecriture-2.jpg)
 
-Nous constatons ainsi que ChatGPT retient les questions précédemment posées et répondues sur une même discussion, mais les « oublie » dès lors que l’on crée une nouvelle discussion. Nous constatons également que, lorsque l’on ne demande pas une réponse en X paragraphes, cette réponse est plutôt concise, tenant sur trois phrases.  Concernant le fond, il est cohérent et pertinent : ChatGPT indique que l’IA pourrait faciliter certaines tâches mais pas remplacer le métier de rédacteur, qui est créatif, qui comprend le public cible et qui pourrait être plutôt soutenu par l’IA.
+Nous constatons ainsi que ChatGPT retient les questions précédemment posées et répondues sur une même discussion, mais les « oublie » dès lors que l’on crée une nouvelle discussion. Nous constatons également que, lorsque l’on ne demande pas une réponse en X paragraphes, cette réponse est plutôt concise, tenant sur trois phrases. Concernant le fond, il est cohérent et pertinent par rapport à la question posée et est exposé sous la forme de faits.
 
-Nous constatons globalement, avec cette expérimentation, que l’orthographe est parfaite, que les phrases et le vocabulaire sont simples et qu’il utilise volontiers des connecteurs au début de ses phrases. Cela donne un texte impersonnel, sans la touche plus humaine d’un rédacteur avec le choix des exemples et l’utilisation de jargons. Cela valide ainsi mes propos émis dans le quatrième article et confirme son utilité en tant qu’assistant du rédacteur pour certaines tâches, mais pas en tant que rédacteur principal et fiable.
+Nous constatons globalement, avec cette expérimentation, que l’orthographe est parfaite, que les phrases et le vocabulaire sont simples et que ChatGPT utilise volontiers des connecteurs au début de ses phrases. Cela donne un texte impersonnel, sans la touche plus humaine d’un rédacteur avec l’expérience et la connaissance, le choix des exemples et l’utilisation de jargons. Cela valide ainsi mes propos émis dans le quatrième article et confirme son utilité en tant qu’assistant du rédacteur pour certaines tâches, mais pas en tant que rédacteur principal et fiable.
