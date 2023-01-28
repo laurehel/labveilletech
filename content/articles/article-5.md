@@ -2,7 +2,7 @@
 date: 2023-01-14
 title: "Article V : Explication du système d'écoute mis en place"
 featured_image: "/images/article5.jpg"
-tags: ["écriture digitale", "système d'écoute"]
+tags: ["écriture digitale", "rédaction web", "système d'écoute"]
 ---
 
 Afin de rester à jour sur les dernières informations concernant mon domaine de prédilection, l’écriture digitale, j’ai mis en place un système d’écoute, passant par différents canaux ou émetteurs.

@@ -1,26 +1,37 @@
 ---
 date: 2023-01-11
-title: "Article II : L’écriture digitale pour optimiser le SEO"
+title: "Article II : La rédaction web pour optimiser le SEO"
 featured_image: "/images/article2.jpg"
-tags: ["écriture digitale", "SEO", "mots-clés", "phrases", "URL", "méta descriptions", "méta titres", "contenus"]
+tags: ["écriture digitale", "rédaction web", "SEO", "rédaction SEO"]
 ---
 
-Comme nous l’avons vu dans l’article précédent, l’écriture digitale et notamment la rédaction web vise à créer des textes clairs et optimisés pour le référencement, pour améliorer la visibilité du site web sur les moteurs de recherche.
+Nous l’avons appris dans le premier article, la rédaction web vise à créer des textes clairs et optimisés pour le référencement, afin d’améliorer la visibilité du site web sur les moteurs de recherche. Dans n’importe quelle source que j’ai consulté parlant de la rédaction web, j’ai constaté que ce concept d’optimisation du SEO était toujours mentionné, faisant de lui un concept primordial dans le domaine. C’est pourquoi j’ai décidé de résumer un article sur le sujet :
 
-En d’autres termes, si l’on prend Google comme exemple de moteur de recherche, un référencement optimisé serait de trouver son site web sur la première page de résultats, parmi les premières suggestions, lors d’une recherche. 
+- [Redacteur.com](https://www.redacteur.com/blog/redaction-seo/) 
 
-Ainsi, l’optimisation du SEO passe principalement par l’utilisation de mots-clés pertinents, de phrases et d’une URL optimisées, de balises méta description et méta titre ainsi que d’un contenu de qualité pour améliorer la visibilité d’un site dans les résultats de recherche dans un moteur de recherche.
+Nous apprenons d’abord que nous ne parlons plus de « rédaction web » mais de « rédaction SEO », qui est dérivée de la première. Elle est constituée de deux phases : le référencement du contenu et le positionnement dans les moteurs de recherche.
 
-Premièrement, attardons-nous sur les mots-clés, qui constituent le cœur de la démarche. C’est le cas, car les mots-clés sont les termes que les utilisateurs recherchent dans les moteurs de recherche. Ces mots-clés doivent ainsi se trouver dans les titres, paragraphes et balises méta description des pages web afin de rendre le site visible sur les moteurs de recherche.
+Alors, qu’est-ce que le SEO ? Le SEO signifie « Search Engine Optimization » est demeure le fait d’augmenter la visibilité d’un site web dans les moteurs de recherche afin d’augmenter sa popularité et, de ce fait, le taux de clics dessus.
 
-Deuxièmement, les phrases rédigées doivent être optimisées du mieux que possible, c’est-à-dire qu’elles doivent être brèves, concises et claires et utiliser des verbes d’action, des formes positives ainsi que des mots-clés pertinents.
+Par exemple, si l’on prend Google comme exemple de moteur de recherche, un référencement optimisé serait de trouver son site web sur la première page de résultats, parmi les cinq premières suggestions, lors d’une recherche.
 
-Troisièmement, les balises méta description et méta titre, qui sont des balises HTML, sont importantes, car elles fournissent des informations sur une page web aux moteurs de recherche. Il est indispensable, comme pour les phrases optimisées, de reprendre les mots-clés pertinents dans ces balises. Cela va de même pour les URL, qui doivent être courtes et contenir les mots-clés importants.
+Cette optimisation du SEO passe par plusieurs actions.
 
-Finalement, il est important de créer du contenu de qualité, unique et intéressant pour améliorer le SEO d’un site web. Ce contenu doit en effet attirer l’œil et attiser l’intérêt des utilisateurs qui naviguent sur le web, que ce soit sous la forme d’articles de blog, d’infographies, de vidéos ou encore de design du contenu. Les utilisateurs doivent aussi être incités à partager le contenu.
+1.	**Analyse de notre SEO** : Analyse de notre position actuelle dans les résultats de recherche.
+2.	**Proposition d’un contenu de qualité** : Besoin d’offrir du contenu original pour maintenir l’intérêt des visiteurs et les garder sur notre site.
+3.	**Rédaction de titres accrocheurs** : Le titre est l’accroche du texte ; il doit susciter l’envie de lire le texte et ne pas être trop long.
+4.	**Rédaction régulière** : Mettre en ligne ou mettre à jour des articles afin de générer plus de trafic sur notre site et, ainsi, de le placer en tête des résultats des moteurs de recherche.
+5.	**Pas d’accumulation de mots-clés** : Les mots-clés sont extrêmement importants pour le SEO, mais il faut principalement les mettre dans le titre et l’introduction.
+6.	**Optimisation des images pour le web** : Soigner la résolution et la pertinence des images ainsi que l’attribut ALT, l’attribut Title, le nom du fichier, la légende, la taille de l’image et l’indexation.
+7.	**Structuration du contenu** : Utilisation des balises titres <h1>, <h2>, <h3>, etc. La balise <h1> est importante, car son contenu est visible dans les résultats des moteurs de recherche.
+8.	**Alimentation de la méta description** : Rédiger un texte de description de 240 caractères, qui est visible dans les résultats des moteurs de recherche, en-dessous du titre.
+9.	**Optimisation du maillage interne** : Avoir des liens de navigation interne pertinents et porter une attention particulière sur la cohérence, la position, l’ancrage et la qualité des liens.
+10.	**Backlinks de qualité** : Avoir des liens de navigation externe de qualité.
+11.	**Disponibilité du site** : Besoin d’avoir un site toujours disponible.
+12.	**Application de la réécriture URL** : Écrire une URL simple contenant notre nom de domaine et quelques mots-clés séparés par des tirets.
+13.	**Analyse des performances de notre rédaction SEO** : Mesurer les retombées.
 
-Ces quatre aspects d’optimisation du SEO aident les moteurs de recherche à comprendre de quoi parlent nos pages web. Ainsi, si toutes les cases sont cochées, notre site web devient visible et arrive en haut du classement des résultats de recherche. 
+En résumé, l’optimisation du SEO passe principalement par l’utilisation de mots-clés pertinents, de phrases, d’images et d’une URL optimisées, de balises méta description et méta titre et d’un contenu de qualité pour améliorer la visibilité d’un site dans les résultats de recherche dans un moteur de recherche.
 
-#### Références :
-- [Slap Digital](https://www.slapdigital.fr/blog/redaction-seo-web/)
-- [My Digital Boost](https://my-digitalboost.com/optimiser-article-seo/)
+#### Référence :
+- [Redacteur.com](https://www.redacteur.com/blog/redaction-seo/) 
